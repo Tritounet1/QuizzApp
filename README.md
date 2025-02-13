@@ -15,6 +15,3 @@ data example :
   },
 ]
 ```
-
--> pouvoir mettre une url vers un json pour lire le contenu
--> mettre un json ou faut lire le contenu
